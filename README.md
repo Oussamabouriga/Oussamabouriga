@@ -1,22 +1,104 @@
-<h1 align="center">Hi 👋, I'm mohamed oussama bouriga</h1>
-<h3 align="center">A passionate Mobile developer from Tunisia</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohamed Oussama Bouriga's Profile</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oussamabouriga&label=Profile%20views&color=0e75b6&style=flat" alt="oussamabouriga" /> </p>
+        .container {
+            max-width: 800px;
+            margin: auto;
+            overflow: hidden;
+            padding: 0 20px;
+        }
 
-- 🔭 I’m currently working on **Soullift**
+        h1, h3 {
+            text-align: center;
+            line-height: 1.5;
+        }
 
-- 📫 How to reach me **oussamabouriga3@gmail.com**
+        .profile-stats img, .skills img {
+            transition: transform 0.2s;
+        }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/oussama bouriga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama bouriga" height="30" width="40" /></a>
-</p>
+        .profile-stats img:hover, .skills img:hover {
+            transform: scale(1.1);
+        }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> </p>
+        .skills, .social-links {
+            display: flex;
+            justify-content: center;
+            list-style: none;
+            padding: 0;
+        }
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oussamabouriga&show_icons=true&locale=en&layout=compact" alt="oussamabouriga" /></p>
+        .skills li, .social-links li {
+            margin: 10px;
+        }
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oussamabouriga&show_icons=true&locale=en" alt="oussamabouriga" /></p>
+        .social-links a {
+            display: inline-block;
+            height: 40px;
+            width: 40px;
+            overflow: hidden;
+        }
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oussamabouriga&" alt="oussamabouriga" /></p>
+        .social-links img, .skills img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 20px;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Hi 👋, I'm Mohamed Oussama Bouriga</h1>
+    <h3>A passionate Mobile Developer from Tunisia</h3>
+
+    <div class="profile-stats">
+        <img src="https://komarev.com/ghpvc/?username=oussamabouriga&label=Profile%20views&color=0e75b6&style=flat" alt="profile views">
+    </div>
+
+    <p>🔭 I’m currently working on <strong>Soullift</strong></p>
+    <p>📫 How to reach me: <strong>oussamabouriga3@gmail.com</strong></p>
+
+    <h3>Connect with me:</h3>
+    <ul class="social-links">
+        <li>
+            <a href="https://linkedin.com/in/oussama bouriga" target="_blank">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn">
+            </a>
+        </li>
+        <!-- Add more social links as needed -->
+    </ul>
+
+    <h3>Languages and Tools:</h3>
+    <ul class="skills">
+        <!-- Replace 'YourSkillIcon.svg' with your actual skill icons -->
+        <li><img src="YourSkillIcon.svg" alt="Skill Name" title="Skill Name"></li>
+        <!-- Add more skills as needed -->
+    </ul>
+
+    <div class="footer">
+        <p>Thank you for visiting my profile!</p>
+    </div>
+</div>
+
+</body>
+</html>
