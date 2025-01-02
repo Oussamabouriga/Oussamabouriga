@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Oussama Bouriga! 🌟
 
-### 🚀 Passionate Mobile Developer and AI Enthusiast from Tunisia 🇹🇳
+### 🚀 Passionate Mobile Developer and AI Enthusiast from Tunisia 🇹🇳, Based in Paris 🇫🇷
 
 ![](https://komarev.com/ghpvc/?username=oussamabouriga&color=0e75b6&style=flat-square)
 
@@ -73,7 +73,6 @@ I specialize in **mobile app development**, **artificial intelligence**, and **d
 </a>
 
 </div>
-
 
 ---
 
