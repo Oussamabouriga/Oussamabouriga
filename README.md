@@ -17,9 +17,7 @@ Currently working on **Soullift** - A project that's close to my heart ❤️
 ### 🌟 Featured Projects
 
 - **[Soullift](#)** - A mobile app designed to elevate your daily routines (Flutter/Dart).
-- **[YourProjectName](#)** - Short description of the project.
 
-> Replace `#` with the URL of your projects.
 
 ---
 
