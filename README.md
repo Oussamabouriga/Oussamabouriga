@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi there 👋, I'm Mohamed Oussama Bouriga! 🌟
+# Hi there 👋, I'm Oussama Bouriga! 🌟
 
-### 🚀 A Passionate Mobile Developer from Tunisia 🇹🇳
+### 🚀 Passionate Mobile Developer and AI Enthusiast from Tunisia 🇹🇳
 
 ![](https://komarev.com/ghpvc/?username=oussamabouriga&color=0e75b6&style=flat-square)
 
-Currently working on **Soullift** - A project that's close to my heart ❤️
+I specialize in **mobile app development**, **artificial intelligence**, and **data-driven solutions**, combining innovation with technical expertise to solve complex challenges. Currently pursuing a **double diploma in Artificial Intelligence and Data Science**, and driven to create impactful applications with cutting-edge technology.
 
 📫 How to reach me: **[oussamabouriga3@gmail.com](mailto:oussamabouriga3@gmail.com)**
 
@@ -16,44 +16,40 @@ Currently working on **Soullift** - A project that's close to my heart ❤️
 
 ### 🌟 Featured Projects
 
-- **[Soullift](#)** - A mobile app designed to elevate your daily routines (Flutter/Dart).
-
-
----
-
-### 💼 Languages and Tools
-
-<h3 align="left">I work with:</h3>
-<p align="left">
-  <!-- Languages and tools icons -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-  <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a>
-</p>
+- **[SoulLift](#)** - A mental well-being app integrating chatbots, motivational quotes, and tools for stress management using AI-powered emotional and vocal recognition. *(Flutter/Dart, Node.js, MongoDB)*
+- **[MealPlanAI](#)** - A personalized meal planning app powered by machine learning to recommend dietary plans based on user data. *(Flutter/Dart, Flask, MongoDB)*
+- **[Treydi](#)** - An innovative platform for bartering physical items, services, and digital content with Android (Kotlin) and iOS (SwiftUI) support.
 
 ---
 
-### 🤝 Connect with Me
+### 💼 Skills and Technologies
 
-<p align="left">
-  <a href="https://linkedin.com/in/oussama bouriga" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <!-- Add more social links as needed -->
-</p>
+#### Mobile Development
+- **Languages**: Flutter, Swift, SwiftUI, Kotlin, Java
+- **Tools**: Firebase, Android Studio, Xcode
+
+#### Artificial Intelligence
+- **Machine Learning & Deep Learning**: SHAP, LIME, Grad-CAM, LoRA Fine-Tuning, Stable Diffusion
+- **NLP**: Natural Language Processing techniques and APIs
+
+#### Backend & Databases
+- **Frameworks**: Node.js, Spring Boot, .Net
+- **Databases**: MongoDB, SQL, Firebase
+
+#### DevOps & Project Management
+- **Tools**: GitHub, Docker, Agile (Scrum), Postman
+
+---
+
+### 🎓 Education
+
+- **Master's in Artificial Intelligence and Data Science**  
+  *Aivancity School for Technology, Business & Society, Paris*  
+  *(September 2024 – Present)*
+
+- **Engineering Degree in Software Engineering**  
+  *ESPRIT (École d'Ingénieurs), Tunisia*  
+  *(September 2022 – June 2024)*
 
 ---
 
@@ -64,3 +60,16 @@ Currently working on **Soullift** - A project that's close to my heart ❤️
   <img src="https://github-readme-stats.vercel.app/api?username=oussamabouriga&show_icons=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussamabouriga" alt="GitHub Streak">
 </div>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/oussama-bouriga" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/oussamabouriga" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
