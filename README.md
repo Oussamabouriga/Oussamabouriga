@@ -56,10 +56,24 @@ I specialize in **mobile app development**, **artificial intelligence**, and **d
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabouriga&layout=compact" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=oussamabouriga&show_icons=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussamabouriga" alt="GitHub Streak">
+
+<!-- Top Languages -->
+<a href="https://github.com/oussamabouriga">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamabouriga&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FE428E&icon_color=F8D866" alt="Top Languages">
+</a>
+
+<!-- General Stats -->
+<a href="https://github.com/oussamabouriga">
+  <img src="https://github-readme-stats.vercel.app/api?username=oussamabouriga&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FE428E&icon_color=F8D866" alt="GitHub Stats">
+</a>
+
+<!-- Streak Stats -->
+<a href="https://github.com/oussamabouriga">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussamabouriga&theme=radical&hide_border=true&background=0D1117&stroke=FE428E&ring=FE428E&fire=FE428E&currStreakLabel=FE428E" alt="GitHub Streak">
+</a>
+
 </div>
+
 
 ---
 
