@@ -2,13 +2,12 @@
 
 # Hi there 👋, I'm Oussama Bouriga! 🌟
 
-### 🚀 Passionate Mobile Developer and AI Enthusiast from Tunisia 🇹🇳, Based in Paris 🇫🇷
+### 🚀 AI Enthusiast & Mobile Developer from Tunisia 🇹🇳, Based in Paris 🇫🇷
 
-![](https://komarev.com/ghpvc/?username=oussamabouriga&color=0e75b6&style=flat-square)
+I’m a passionate student pursuing a **double diploma in Artificial Intelligence and Data Science** at Aivancity School (Paris) and Software Engineering at ESPRIT (Tunisia). I specialize in **machine learning**, **deep learning**, **mobile app development**, and **backend solutions**, with a focus on creating impactful, data-driven applications. My expertise spans **AI model development**, **computer vision**, **NLP**, and **full-stack development**, and I’m driven to solve complex challenges through innovative technology.
 
-I specialize in **mobile app development**, **artificial intelligence**, and **data-driven solutions**, combining innovation with technical expertise to solve complex challenges. Currently pursuing a **double diploma in Artificial Intelligence and Data Science**, and driven to create impactful applications with cutting-edge technology.
-
-📫 How to reach me: **[oussamabouriga3@gmail.com](mailto:oussamabouriga3@gmail.com)**
+📫 How to reach me: **[oussamabouriga3@gmail.com](mailto:oussamabouriga3@gmail.com)**  
+🌐 Check out my portfolio: **[mohamedoussamabouriga.me](https://mohamedoussamabouriga.me)**
 
 </div>
 
@@ -16,40 +15,87 @@ I specialize in **mobile app development**, **artificial intelligence**, and **d
 
 ### 🌟 Featured Projects
 
-- **[SoulLift](#)** - A mental well-being app integrating chatbots, motivational quotes, and tools for stress management using AI-powered emotional and vocal recognition. *(Flutter/Dart, Node.js, MongoDB)*
-- **[MealPlanAI](#)** - A personalized meal planning app powered by machine learning to recommend dietary plans based on user data. *(Flutter/Dart, Flask, MongoDB)*
-- **[Treydi](#)** - An innovative platform for bartering physical items, services, and digital content with Android (Kotlin) and iOS (SwiftUI) support.
+- **[Fine-Tuning YOLOv5 for Blood Cell Detection](https://github.com/Oussamabouriga)**  
+  Optimized YOLOv5 for detecting and classifying blood cells (WBC, RBC, platelets) using annotated datasets, achieving high accuracy in medical imaging applications.  
+  *Technologies: Python, PyTorch, YOLOv5, OpenCV, Google Colab, Deep Learning*
+
+- **[MealPlanAI – AI-Powered Meal Planning](https://github.com/Oussamabouriga)**  
+  Developed an AI-driven app for personalized meal recommendations based on user data (weight, activity, goals). Built a full-stack solution with a machine learning model, backend, and mobile app.  
+  *Technologies: XGBoost, Scikit-Learn, Flask, Node.js, MongoDB, Flutter, RESTful APIs*
+
+- **[Traffic Volume Prediction with PyTorch](https://github.com/Oussamabouriga/Traffic-Volume-Prediction.git)**  
+  Created an LSTM model to predict traffic volume using meteorological, temporal, and historical data, with advanced preprocessing and evaluation metrics.  
+  *Technologies: Python, PyTorch, Data Preprocessing*
+
+- **[Pneumonia Detection from Chest X-Rays](https://github.com/Oussamabouriga/classify-X-ray-images-for-PNEUMONIA.git)**  
+  Utilized transfer learning with ResNet-18 to detect pneumonia from chest X-rays, achieving high accuracy and F1 scores for binary classification (NORMAL/PNEUMONIA).  
+  *Technologies: Python, PyTorch, ResNet-18, Deep Learning*
 
 ---
 
 ### 💼 Skills and Technologies
 
+#### Artificial Intelligence & Machine Learning
+- **Languages & Frameworks**: Python, TensorFlow, PyTorch, Keras, Scikit-Learn
+- **Advanced Techniques**: CNN, RNN, LSTMs, Word Embeddings, Sentiment Analysis, Grad-CAM, LoRA Fine-Tuning, Stable Diffusion
+- **Tools**: Google Colab, Jupyter Notebook, Power BI, Power Query, DAX
+
 #### Mobile Development
-- **Languages**: Flutter, Swift, SwiftUI, Kotlin, Java
+- **Languages & Frameworks**: Flutter, Dart, Swift, SwiftUI, Kotlin, Java
 - **Tools**: Firebase, Android Studio, Xcode
 
-#### Artificial Intelligence
-- **Machine Learning & Deep Learning**: SHAP, LIME, Grad-CAM, LoRA Fine-Tuning, Stable Diffusion
-- **NLP**: Natural Language Processing techniques and APIs
-
 #### Backend & Databases
-- **Frameworks**: Node.js, Spring Boot, .Net
-- **Databases**: MongoDB, SQL, Firebase
+- **Frameworks**: Node.js, Spring Boot, .NET, Flask
+- **Databases**: SQL, MongoDB, Firebase
+- **APIs**: RESTful APIs
 
 #### DevOps & Project Management
-- **Tools**: GitHub, Docker, Agile (Scrum), Postman
+- **Tools**: Docker, GitHub, GitLab, Postman, Bash
+- **Methodologies**: Agile, Scrum
+
+#### Other Skills
+- **Data Science**: Pandas, NumPy, Matplotlib, Data Visualization
+- **Additional Tools**: Visual Studio Code, Microsoft Teams
+
+---
+
+### 🛠️ Professional Experience
+
+- **AI Intern | AURA, France** *(Jan 2025 – Present)*  
+  Developing a machine learning library for epilepsy seizure detection using RNN and CNN models for real-time time-series analysis.  
+  *Tasks*: Feature engineering, model optimization, and integration for real-time monitoring.
+
+- **AI Intern | NeuralTeks, Paris** *(Sept 2024 – Dec 2024)*  
+  Built an automated pipeline using LoRA and Stable Diffusion to generate synthetic images for microbiology applications, addressing data scarcity issues.  
+  *Tasks*: Fine-tuning generative models, integrating synthetic images into classification models, and conducting research on domain-specific AI applications.
+
+- **Volunteer | Ryz’Ôm** *(Oct 2024 – Present)*  
+  Providing support and companionship to individuals with reduced mobility, enhancing their daily experience through empathetic engagement.
 
 ---
 
 ### 🎓 Education
 
 - **Master's in Artificial Intelligence and Data Science**  
-  *Aivancity School for Technology, Business & Society, Paris*  
-  *(September 2024 – Present)*
+  *Aivancity School for Technology, Business & Society, Paris, France*  
+  *(Sept 2024 – Present)*
 
 - **Engineering Degree in Software Engineering**  
-  *ESPRIT (École d'Ingénieurs), Tunisia*  
-  *(September 2022 – June 2024)*
+  *ESPRIT (École d’Ingénieurs), Tunisia*  
+  *(Sept 2022 – Present)*  
+  *(Double diploma with hybrid presence between Tunisia and France)*
+
+- **Preparatory Cycle in Computer Science**  
+  *École Polytechnique de Sousse, Tunisia*  
+  *(Sept 2020 – Jun 2022)*
+
+---
+
+### 🌍 Languages
+
+- **English**: Fluent
+- **French**: Fluent
+- **Arabic**: Fluent
 
 ---
 
@@ -84,5 +130,8 @@ I specialize in **mobile app development**, **artificial intelligence**, and **d
   </a>
   <a href="https://github.com/oussamabouriga" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://mohamedoussamabouriga.me" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
 </p>
