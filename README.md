@@ -1,7 +1,7 @@
 <h1 align="center">Mohamed Oussama Bouriga</h1>
 
 <p align="center">
-  <strong>Data Scientist Â· Machine Learning Engineer Â· AI Engineer</strong><br>
+  <strong>Data Scientist & Ingénieur IA</strong><br>
   Paris, France
 </p>
 
