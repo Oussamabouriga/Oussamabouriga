@@ -100,4 +100,3 @@ My current interests include explainable machine learning, LLM applications, age
 
 - Email: [oussamabouriga3@gmail.com](mailto:oussamabouriga3@gmail.com)
 - LinkedIn: [linkedin.com/in/oussama-bouriga](https://www.linkedin.com/in/oussama-bouriga/)
-- Portfolio: [mohamedoussamabouriga.me](https://mohamedoussamabouriga.me)
